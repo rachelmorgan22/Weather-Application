@@ -1,10 +1,10 @@
 # Weather Application
 A responsive web app displaying real-time weather for US cities. Built with HTML5 for structure, CSS3 for styling, and JavaScript for dynamic API integration and DOM manipulation. Features city search, weather display, and responsive design for both desktop and mobile.
 
-Description
+Description:
 The Weather App is a web application that allows users to check the current weather conditions for any city in the United States. It uses the OpenWeatherMap API to fetch real-time weather data and presents it in a user-friendly and responsive format. This project showcases proficiency in HTML5, CSS3, and JavaScript.
 
-Features
+Features:
 City Search: Enter a city name to retrieve current weather conditions.
 Dynamic Weather Display: Shows temperature, weather description, and an icon representing the current weather.
 Responsive Design: Fully functional on both desktop and mobile devices.
